@@ -1,0 +1,54 @@
+div {
+  width:1466px;
+  height:731px;
+  margin:auto;
+  position:relative;
+  overflow:hidden;
+  border-radius:15em/1.2em;
+  border:solid  #000000;
+  box-shadow:0 0 5px;
+}
+div img {
+  position:absolute;
+  top:0;
+  left:0;
+  transition:1s;
+  vertical-align:bottom;
+}
+div img:nth-child(even) {
+  left:100%;
+}
+div img:nth-child(2n+3) {
+  left:-100%;
+}
+div img:focus + img {
+  left:0;
+  transition:1s;
+  box-shadow:0 0 50px 100px #000000;
+}
+
+/* make it responsive ? */
+div , img {max-width:100%;height:auto;}
+img:first-child {position:static;}
+
+html {
+  min-height:100%;
+  display: box;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+  text-align:center;
+}
+h1 span{line-height:0em;
+  border-bottom:4px solid #159;
+  box-shadow: 0 0 3px 20px #000000;
+  border-radius:100%;
+  display:block;
+text-shadow:0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white,0 0 5px white;
+ }
+h1 {padding:0.7em ;
+position:relative;
+top:2em;
+z-index:1;
+  width:610px;
+margin: 0.7em auto}
