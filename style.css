@@ -1,3 +1,8 @@
+body {
+  background-color: black;
+  color:gold;
+}
+
 div {
   width:1466px;
   height:731px;
@@ -5,7 +10,7 @@ div {
   position:relative;
   overflow:hidden;
   border-radius:15em/1.2em;
-  border:solid  #000000;
+  border:solid  #FFFFFF;
   box-shadow:0 0 5px;
 }
 div img {
@@ -24,7 +29,7 @@ div img:nth-child(2n+3) {
 div img:focus + img {
   left:0;
   transition:1s;
-  box-shadow:0 0 50px 100px #000000;
+  box-shadow:0 0 50px 100px #FFFFFF;
 }
 
 /* make it responsive ? */
@@ -40,6 +45,7 @@ html {
   text-align:center;
 }
 h1 span{line-height:0em;
+  background-color: black;
   border-bottom:4px solid #159;
   box-shadow: 0 0 3px 20px #000000;
   border-radius:100%;
