@@ -1,0 +1,61 @@
+---
+title: 'Julien Desclodure personal page'
+execute:
+  echo: false
+jupyter: python3
+---
+</br>
+<span style="font-size:1.45rem; color:white; font-weight: bold;"><span style="font-size:1.45rem; color:white;" class="badge bg-info">Professional</span>, <span style="font-size:1.45rem; color:white;" class="badge bg-primary">academic</span> and <span style="font-size:1.45rem; color:white;" class="badge bg-danger">examination</span> backgrounds</span>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">Sep 2023 - present</th>
+      <td><span class="badge bg-info">Data scientist</span> on public local authorities at the General Directorate of Local Authorities. Under the French Ministry of Ecology and Ministry of Interior. </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Sep 2021 - Jun 2023</th>
+      <td><i class="badge bg-primary">Ensai</i> - French National School of Statistics and Analysis of Information. <span class="badge bg-info">Trainee statistician <i>attaché</i>.</span></td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Jun 2021</th>
+      <td><span class="badge bg-danger">Statistician <i>attaché</i> at <i>Insee</i></span> - French National Institute of Statistics and Economic Studies.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Pre-2021</th>
+      <td><span class="badge bg-info">Teacher</span>, <span class="badge bg-primary">master</span> and <i class="badge bg-danger">agrégation</i> in mathematics.</td>
+    </tr>
+  </tbody>
+</table>
+
+</br>
+<span style="font-size:1.45rem;  font-weight: bold; color:white;">Latest projects or publications</span>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <!-- <th scope="col"></th>
+      <th scope="col"></th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">2023</th>
+      <td>Joint analysis of trajectories of antibiotic use and antibiotic resistance between 2014 and 2021 in Europe. Under the direction of Claire Chauvin (Anses Ploufragan Laboratory).</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2022</th>
+      <td><a href="https://graffiti-conjoncture.lab.sspcloud.fr/" target="_blank">graffiti-conjoncture</a>: a R shiny interface to plot statistics series from <i>Insee</i>. Contribution to the <a href="https://github.com/pyr-opendatafr/graffiti" target="_blank">graffiti</a> open source project.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2022</th>
+      <td>Literature review on the economic impact of Brexit.</td>
+    </tr>
+  </tbody>
+</table>

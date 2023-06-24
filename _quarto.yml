@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: .
+website:
+  title: 'Julien Desclodure personal page'
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+    # tools:
+    #   - icon: github
+    #   - href: https://github.com/jdesclodure/jdesclodure.github.io
+  repo-url: https://github.com/jdesclodure/jdesclodure.github.io
+  repo-branch: master
+  repo-actions: [source]
+  page-footer: 'This website is powered by 
+<a href="https://quarto.org/" target="_blank">Quarto</a>.'
+
+format:
+  html:
+    page-layout: full
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+
+
