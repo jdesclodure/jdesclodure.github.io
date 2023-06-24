@@ -14,8 +14,8 @@ website:
   repo-url: https://github.com/jdesclodure/jdesclodure.github.io
   repo-branch: master
   repo-actions: [source]
-  page-footer: 'This website is powered by 
-<a href="https://quarto.org/" target="_blank">Quarto</a>, an open-source scientific and technical publishing system.'
+  page-footer: 'Website powered by <a href="https://quarto.org/" target="_blank">Quarto</a>, an open-source scientific and technical publishing system.'
+  favicon: icon.ico
 
 format:
   html:
