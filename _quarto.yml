@@ -15,7 +15,7 @@ website:
   repo-branch: master
   repo-actions: [source]
   page-footer: 'This website is powered by 
-<a href="https://quarto.org/" target="_blank">Quarto</a>.'
+<a href="https://quarto.org/" target="_blank">Quarto</a>, an open-source scientific and technical publishing system.'
 
 format:
   html:
