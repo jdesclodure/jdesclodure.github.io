@@ -1,5 +1,5 @@
 ---
-title: 'Julien Desclodure personal page'
+title: 'Julien Desclodure'
 execute:
   echo: false
 jupyter: python3

@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: .
 website:
-  title: 'Julien Desclodure personal page'
+  title: "Julien Desclodure's personal page"
   navbar:
     title: false
     left:
