@@ -1,1 +1,4 @@
+/index_files/
 /.quarto/
+.quarto/_freeze/index/execute-results/html.json
+.quarto/idx/index.qmd.json
