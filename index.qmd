@@ -2,7 +2,7 @@
 title: 'Julien Desclodure'
 ---
 </br>
-<span style="font-size:1.45rem; color:white; font-weight: bold;"><span style="font-size:1.45rem; color:white;" class="badge bg-info">Professional</span>, <span style="font-size:1.45rem; color:white;" class="badge bg-primary">academic</span> and <span style="font-size:1.45rem; color:white;" class="badge bg-danger">examination</span> backgrounds</span>
+<span style="font-size:1.45rem; color:white; font-weight: bold;"><span style="font-size:1.45rem; color:white;" class="badge bg-info">Professional</span>, <span style="font-size:1.45rem; color:white;" class="badge bg-primary">academic</span> or <span style="font-size:1.45rem; color:white;" class="badge bg-danger">examination</span> backgrounds</span>
 
 <table class="table table-hover">
   <thead>
@@ -14,11 +14,13 @@ title: 'Julien Desclodure'
   <tbody>
     <tr class="table-active">
       <th scope="row">Sep 2023 - present</th>
-      <td><span class="badge bg-info">Data scientist</span> on public local authorities at the General Directorate of Local Authorities. Under the French Ministry of Ecology and Ministry of Interior. </td>
+      <td><span class="badge bg-info">Data scientist at <i>DGCL</i></span> - French General Directorate for Local Authorities.
+      </td>
     </tr>
     <tr class="table-active">
       <th scope="row">Sep 2021 - Jun 2023</th>
-      <td><i class="badge bg-primary">Ensai</i> - French National School of Statistics and Analysis of Information. <span class="badge bg-info">Trainee statistician <i>attaché</i>.</span></td>
+      <td><i class="badge bg-primary">Ensai</i> - French National School of Statistics and Analysis of Information.
+      </td>
     </tr>
     <tr class="table-active">
       <th scope="row">Jun 2021</th>
