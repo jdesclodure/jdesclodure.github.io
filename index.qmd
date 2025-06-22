@@ -1,0 +1,135 @@
+---
+title: 'Julien Desclodure'
+---
+</br>
+<span style="font-size:1.45rem; color:white; font-weight: bold;"><span style="font-size:1.45rem; color:white;" class="badge bg-info">Professional</span>, <span style="font-size:1.45rem; color:white;" class="badge bg-primary">academic</span> or <span style="font-size:1.45rem; color:white;" class="badge bg-danger">examination</span> backgrounds</span>
+
+<style>
+.small-image {
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+</style>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">Sep 2023 - present</th>
+      <td><span class="badge bg-info">Data scientist at <i>DGCL</i></span> - French General Directorate for Local Authorities.
+      </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Sep 2021 - Jun 2023</th>
+      <td><i class="badge bg-primary">Ensai</i> - French National School of Statistics and Analysis of Information.
+      </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Jun 2021</th>
+      <td><span class="badge bg-danger">Statistician <i>attaché</i> at <i>Insee</i></span> - French National Institute of Statistics and Economic Studies.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Pre-2021</th>
+      <td><span class="badge bg-info">Teacher</span>, <span class="badge bg-primary">master</span> and <i class="badge bg-danger">agrégation</i> in mathematics.</td>
+    </tr>
+  </tbody>
+</table>
+
+</br>
+<span style="font-size:1.45rem;  font-weight: bold; color:white;">Latest projects or publications</span>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <!-- <th scope="col"></th>
+      <th scope="col"></th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">2025</th>
+      <td>The road expenditure of local authorities between 2013 and 2023, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/bis-192-les-depenses-de-voirie-des-collectivites-locales-entre-2013-et-2023" target="_blank">Article</a>.
+      </br>
+      <img src="files/bis_192_depenses_de_voirie_infographie.png" alt="Image" class="small-image" onclick="openModal()">
+      </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2024</th>
+      <td>Publications of tables on the finances and taxation of local authorities, <i>DGCL</i>.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2023</th>
+      <td>Analysis of antibiotic use and antibiotic resistance between 2014 and 2021 in Europe - Anses Ploufragan Laboratory.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2022</th>
+      <td><a href="https://graffiti-conjoncture.lab.sspcloud.fr/" target="_blank">graffiti-conjoncture</a>: a R shiny dashboard to plot series from <i>Insee</i>. Contribution to the <a href="https://github.com/pyr-opendatafr/graffiti" target="_blank">graffiti</a> open source project.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2022</th>
+      <td><a href="https://github.com/jdesclodure/quick-charts/" target="_blank">quick-charts</a>: a rmarkdown package to quickly generate charts of cyclical series from <i>Insee</i>. <a href="https://jdesclodure.github.io/quick-charts/" target="_blank">Webpage of the charts</a>.</td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2022</th>
+      <td>Literature review on the economic impact of Brexit.</td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="myModal" class="modal">
+<span class="close" onclick="closeModal()">&times;</span>
+<img class="modal-content" id="img01">
+</div>
+
+<script>
+function openModal() {
+    document.getElementById('myModal').style.display = "block";
+    document.getElementById('img01').src = "files/bis_192_depenses_de_voirie_infographie.png";
+}
+
+function closeModal() {
+    document.getElementById('myModal').style.display = "none";
+}
+</script>

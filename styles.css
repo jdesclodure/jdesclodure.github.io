@@ -1,0 +1,30 @@
+/* css styles */
+
+.navbar {
+    color:white;
+    background-color:rgb(156, 4, 226);
+}
+
+.navbar-item {
+    color:white;
+}
+.navbar-title {
+    color:white;
+    font-family: var(--bs-body-font-family);
+}
+
+.badge {
+    font-size: var(--bs-body-font-size);
+}
+
+thead tr th:first-child,
+tbody tr td:first-child {
+  width: 11em;
+  min-width: 8em;
+  max-width: 30em;
+  word-break: break-all;
+}
+
+thead {
+    --bs-table-accent-bg: black;
+}
