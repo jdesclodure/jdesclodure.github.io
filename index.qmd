@@ -90,10 +90,9 @@ title: 'Julien Desclodure'
   <tbody>
     <tr class="table-active">
       <th scope="row">2025</th>
-      <td>The road expenditure of local authorities between 2013 and 2023, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/bis-192-les-depenses-de-voirie-des-collectivites-locales-entre-2013-et-2023" target="_blank">Article</a>.
+      <td>The road expenditure of local authorities between 2013 and 2023, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/bis-192-les-depenses-de-voirie-des-collectivites-locales-entre-2013-et-2023" target="_blank">Article</a> and <a href="files/depenses_de_voirie_infographie_video_480p.mp4" target="_blank">Video</a>.
       </br>
-      <img src="files/bis_192_depenses_de_voirie_infographie.png" alt="Image" class="small-image" onclick="openModal()">
-      </td>
+<img src="files/bis_192_depenses_de_voirie_infographie.png" alt="Image" class="small-image" onclick="openModal()"></td>
     </tr>
     <tr class="table-active">
       <th scope="row">2024</th>
