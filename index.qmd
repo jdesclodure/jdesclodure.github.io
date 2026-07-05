@@ -57,13 +57,18 @@ title: 'Julien Desclodure'
   </thead>
   <tbody>
     <tr class="table-active">
-      <th scope="row">Sep 2023 - present</th>
-      <td><span class="badge bg-info">Data scientist at <i>DGCL</i></span> - French General Directorate for Local Authorities.
+      <th scope="row">Sep 2026 - present</th>
+      <td><span class="badge bg-info">Statistical Confidentiality Methodology Officer at <i>Insee</i></span> – French National Institute of Statistics and Economic Studies.
+      </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Sep 2023 - Aug 2026</th>
+      <td><span class="badge bg-info">Data scientist at <i>DGCL</i></span> – French General Directorate for Local Authorities.
       </td>
     </tr>
     <tr class="table-active">
       <th scope="row">Sep 2021 - Jun 2023</th>
-      <td><i class="badge bg-primary">Ensai</i> as a <span class="badge bg-danger">Statistician <i>attaché</i> at <i>Insee</i></span> - French National School of Statistics and Analysis of Information.
+      <td><i class="badge bg-primary">Ensai</i> as a <span class="badge bg-danger">Statistician <i>attaché</i> at <i>Insee</i></span> – French National School of Statistics and Analysis of Information.
       </td>
     </tr>
     <tr class="table-active">
@@ -85,14 +90,13 @@ title: 'Julien Desclodure'
   </thead>
   <tbody>
     <tr class="table-active">
+      <th scope="row">2026</th>
+      <td><i>Insee Première</i>, Wages in the Territorial Civil Service in 2024, <i>Insee & DGCL</i>. <a href="" target="_blank">Article (pdf)</a> and <a href="" target="_blank">Infographic</a>.
+      </td>
+    </tr>
+    <tr class="table-active">
       <th scope="row">2025</th>
-      <td>The determinants of financial disparities among municipalities, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/BIS/2025/Les%20facteurs%20socioeconomiques%20des%20finances%20des%20communes%20v6.pdf" target="_blank">Article (pdf)</a>.
-      </br>
-      <video src="files/BIS_204_Déterminants_des_finances_des_communes_480p.mp4"
-             poster="files/BIS_204_Déterminants_des_finances_des_communes.png"
-             controls 
-             style="width:70%;">
-      </video>
+      <td>The determinants of financial disparities among municipalities, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/BIS/2025/Les%20facteurs%20socioeconomiques%20des%20finances%20des%20communes%20v6.pdf" target="_blank">Article (pdf)</a> and <a href="files/BIS_204_Déterminants_des_finances_des_communes_480p.mp4" target="_blank">Video</a>.
       </td>
     </tr>
     <tr class="table-active">
@@ -105,9 +109,8 @@ title: 'Julien Desclodure'
     </tr>
     <tr class="table-active">
       <th scope="row">2024</th>
-      <td>The road expenditure of local authorities between 2013 and 2023, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/BIS/2025/BIS%20192%20-%20les%20d%C3%A9penses%20de%20voirie%202013-2023%20v4.pdf" target="_blank">Article (pdf)</a> and <a href="files/depenses_de_voirie_infographie_video_480p.mp4" target="_blank">Video</a>.
-      </br>
-<img src="files/bis_192_depenses_de_voirie_infographie.png" alt="Image" class="small-image" onclick="openModal()"></td>
+      <td>The road expenditure of local authorities between 2013 and 2023, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/BIS/2025/BIS%20192%20-%20les%20d%C3%A9penses%20de%20voirie%202013-2023%20v4.pdf" target="_blank">Article (pdf)</a>, <a href="files/bis_192_depenses_de_voirie_infographie.png" target="_blank">Infographic</a> and <a href="files/depenses_de_voirie_infographie_video_480p.mp4" target="_blank">Video</a>.
+      </td>
     </tr>
     <tr class="table-active">
       <th scope="row">2024</th>
@@ -115,7 +118,7 @@ title: 'Julien Desclodure'
     </tr>
     <tr class="table-active">
       <th scope="row">2023</th>
-      <td>Ensai project: Analysis of antibiotic use and antibiotic resistance between 2014 and 2021 in Europe - Anses Ploufragan Laboratory.</td>
+      <td>Ensai project: Analysis of antibiotic use and antibiotic resistance between 2014 and 2021 in Europe – Anses Ploufragan Laboratory.</td>
     </tr>
     <tr class="table-active">
       <th scope="row">2022</th>
