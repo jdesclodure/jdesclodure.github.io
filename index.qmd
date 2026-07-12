@@ -91,7 +91,12 @@ title: 'Julien Desclodure'
   <tbody>
     <tr class="table-active">
       <th scope="row">2026</th>
-      <td><i>Insee Première</i>, Wages in the Territorial Civil Service in 2024, <i>Insee & DGCL</i>. <a href="" target="_blank">Article (pdf)</a> and <a href="" target="_blank">Infographic</a>.
+      <td>Annual report from the Observatory of Local Public Finance and Management, <i>DGCL & OFGL</i>. <a href="https://www.collectivites-locales.gouv.fr/etudes-et-statistiques/rapports-de-lobservatoire-des-finances-et-de-la-gestion-publique-locales-ofgl" target="_blank">Report (pdf)</a>.
+      </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2026</th>
+      <td><i>Insee Première</i>, Wages in the Territorial Civil Service in 2024, <i>Insee & DGCL</i>. <a href="https://www.insee.fr/fr/statistiques/fichier/8984823/IP2101.pdf" target="_blank">Article (pdf)</a> and <a href="https://www.insee.fr/fr/statistiques/8984823" target="_blank">Infographic</a>.
       </td>
     </tr>
     <tr class="table-active">
