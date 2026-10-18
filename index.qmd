@@ -2,7 +2,7 @@
 title: 'Julien Desclodure'
 ---
 </br>
-<span style="font-size:1.45rem; color:white; font-weight: bold;"><span style="font-size:1.45rem; color:white;" class="badge bg-info">Professional</span>, <span style="font-size:1.45rem; color:white;" class="badge bg-primary">academic</span> or <span style="font-size:1.45rem; color:white;" class="badge bg-danger">examination</span> backgrounds</span>
+<span style="font-size:1.45rem; color:white; font-weight: bold;"><span style="font-size:1.45rem; color:white;" class="badge bg-info">Professional</span>, <span style="font-size:1.45rem; color:white;" class="badge bg-primary">academic</span> or <span style="font-size:1.45rem; color:white;" class="badge bg-danger">competitive examination</span> backgrounds</span>
 
 <style>
 .small-image {
@@ -58,22 +58,22 @@ title: 'Julien Desclodure'
   <tbody>
     <tr class="table-active">
       <th scope="row">Sep 2026 - present</th>
-      <td><span class="badge bg-info">Statistical Confidentiality Methodology Officer at <i>Insee</i></span> – French National Institute of Statistics and Economic Studies.
+      <td><span class="badge bg-info">Statistical Confidentiality Methodology Officer at <i>Insee</i></span> – *Institut national de la statistique et des études économiques*.
       </td>
     </tr>
     <tr class="table-active">
       <th scope="row">Sep 2023 - Aug 2026</th>
-      <td><span class="badge bg-info">Data scientist at <i>DGCL</i></span> – French General Directorate for Local Authorities.
+      <td><span class="badge bg-info">Data scientist at <i>DESL</i></span> – *Département des études statistiques locales*.
       </td>
     </tr>
     <tr class="table-active">
       <th scope="row">Sep 2021 - Jun 2023</th>
-      <td><i class="badge bg-primary">Ensai</i> as a <span class="badge bg-danger">Statistician <i>attaché</i> at <i>Insee</i></span> – French National School of Statistics and Analysis of Information.
+      <td><i class="badge bg-primary">Ensai</i> as a <span class="badge bg-danger">Statistician <i>attaché</i> at <i>Insee</i></span> – *École nationale de la statistique et de l’analyse de l’information, France*.
       </td>
     </tr>
     <tr class="table-active">
       <th scope="row">Pre-2021</th>
-      <td><span class="badge bg-info">Teacher</span>, <span class="badge bg-primary">master</span> and <i class="badge bg-danger">agrégation</i> in mathematics.</td>
+      <td><span class="badge bg-info">Teacher</span>, <span class="badge bg-primary">MSc</span> and <i class="badge bg-danger">agrégation</i> in mathematics.</td>
     </tr>
   </tbody>
 </table>
@@ -91,7 +91,12 @@ title: 'Julien Desclodure'
   <tbody>
     <tr class="table-active">
       <th scope="row">2026</th>
-      <td>Annual report from the Observatory of Local Public Finance and Management, <i>DGCL & OFGL</i>. <a href="https://www.collectivites-locales.gouv.fr/etudes-et-statistiques/rapports-de-lobservatoire-des-finances-et-de-la-gestion-publique-locales-ofgl" target="_blank">Report (pdf)</a>.
+      <td>The Territorial Civil Service between 2014 and 2024, <i>DGCL</i>. <a href="https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/BIS/2026/Bis_14_24_v6.pdf" target="_blank">Article (pdf)</a>.
+      </td>
+    </tr>
+    <tr class="table-active">
+      <th scope="row">2026</th>
+      <td>Annual report from the Observatory of Local Public Finance and Management, <i>DGCL & OFGL</i>, Annex 11. <a href="https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/OFGL/2026/Rapport%20OFGL%202026%20complet%20V24ao%C3%BBt2026.pdf" target="_blank">Report (pdf)</a>.
       </td>
     </tr>
     <tr class="table-active">
@@ -120,10 +125,6 @@ title: 'Julien Desclodure'
     <tr class="table-active">
       <th scope="row">2024</th>
       <td>Publications of tables on the finances and taxation of local authorities, <i>DGCL</i>.</td>
-    </tr>
-    <tr class="table-active">
-      <th scope="row">2023</th>
-      <td>Ensai project: Analysis of antibiotic use and antibiotic resistance between 2014 and 2021 in Europe – Anses Ploufragan Laboratory.</td>
     </tr>
     <tr class="table-active">
       <th scope="row">2022</th>
